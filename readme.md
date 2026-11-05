@@ -45,4 +45,4 @@ License: not yet specified. The repository has no license file; contact Iriscan 
 
 ## Contact
 
-info@iriscan.net, https://www.iriscan.com
+info@iriscan.com, https://www.iriscan.com
